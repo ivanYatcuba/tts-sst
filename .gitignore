@@ -2,3 +2,4 @@ model.pth
 feats_stats.npz
 spk_xvector.ark
 config.yaml
+.idea
