@@ -1,0 +1,7 @@
+experiment,model,wer
+trump,large,0.37438423645320196
+zelensky,large,0.6
+jackhammer,large,0.0
+trump,small,0.39408866995073893
+zelensky,small,0.8
+jackhammer,small,0.2857142857142857

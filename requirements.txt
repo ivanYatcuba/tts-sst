@@ -1,0 +1,5 @@
+openai-whisper
+ukrainian_tts @ git+https://github.com/robinhad/ukrainian-tts.git
+kokoro==0.9.4
+numba==0.61.2
+jiwer==4.0.0
